@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802426400489",
+    "project_id": "database-b8aea",
+    "storage_bucket": "database-b8aea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802426400489:android:3c9b8cca908afebf2b4a78",
+        "android_client_info": {
+          "package_name": "com.example.databaseloginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802426400489-0o5meki3519dkqn183tg20s555epsup1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0sqMahqfjhCUj7MG9txa5xZ-b3a4Rsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802426400489-0o5meki3519dkqn183tg20s555epsup1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
